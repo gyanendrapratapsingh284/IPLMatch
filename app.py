@@ -1,7 +1,6 @@
 import streamlit as st
 import pickle
 import pandas as pd
-import sklearn
 st.title("IPL Win Predictor")
 
 col1,col2 = st.columns(2)
